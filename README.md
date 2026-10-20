@@ -1,16 +1,25 @@
-## Ain Safiyyah | Student of Bachelor in Science Computer (Data Engineering) with Honours in University of Technology Malaysia👋
+# Hi, Saya Ain Safiyyah! 👋
 
-<!--
-**nurainsafiyyah/nurainsafiyyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selamat datang ke profil GitHub saya! Saya merupakan pelajar Sarjana Muda Sains Komputer (Kejuruteraan Data) dengan Kepujian di Universiti Teknologi Malaysia (UTM).
 
-Here are some ideas to get you started:
+## 💫 Mengenai Saya
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Pendidikan:** Sarjana Muda Sains Komputer (Kejuruteraan Data) dengan Kepujian @ Universiti Teknologi Malaysia (UTM)
+- 🔭 **Bidang Tumpuan:** Pemprosesan Data, Pemodelan Data & Analisis Data
+- 🌱 **Sedang Mendalami:** Git, GitHub, SQL, Python & Sains Data
+- ⚡ **Minat:** Menukar data mentah kepada maklumat berharga untuk penyelesaian masalah dunia sebenar!
+
+## 🛠️ Kemahiran & Alat *(Skills & Data Stack)*
+
+- **Bahasa Pengaturcaraan:** Python, SQL, C++
+- **Alat & Kejuruteraan Data:** Database Management (MySQL/PostgreSQL), Data Wrangling, Pandas
+- **Kawalan Versi:** Git & GitHub
+
+## 📫 Hubungi Saya
+
+- **LinkedIn:** [Ain Safiyyah](https://linkedin.com/in/nama-profil-anda)
+- **E-mel:** ainsafiyyah@example.com
+
+---
+
+*Profil ini dikemas kini menggunakan fail Markdown (.md).*
