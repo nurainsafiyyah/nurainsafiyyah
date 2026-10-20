@@ -1,4 +1,4 @@
-## Hi there 👋
+## Ain Safiyyah | Student of Bachelor in Science Computer (Data Engineering) with Honours in University of Technology Malaysia👋
 
 <!--
 **nurainsafiyyah/nurainsafiyyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
