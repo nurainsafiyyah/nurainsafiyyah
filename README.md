@@ -6,19 +6,13 @@ Selamat datang ke profil GitHub saya! Saya merupakan pelajar Sarjana Muda Sains 
 
 - 🎓 **Pendidikan:** Sarjana Muda Sains Komputer (Kejuruteraan Data) dengan Kepujian @ Universiti Teknologi Malaysia (UTM)
 - 🔭 **Bidang Tumpuan:** Pemprosesan Data, Pemodelan Data & Analisis Data
-- 🌱 **Sedang Mendalami:** Git, GitHub, SQL, Python & Sains Data
-- ⚡ **Minat:** Menukar data mentah kepada maklumat berharga untuk penyelesaian masalah dunia sebenar!
+- 🌱 **Sedang Mendalami:** Git, GitHub, SQL, Python 
 
 ## 🛠️ Kemahiran & Alat *(Skills & Data Stack)*
 
 - **Bahasa Pengaturcaraan:** Python, SQL, C++
-- **Alat & Kejuruteraan Data:** Database Management (MySQL/PostgreSQL), Data Wrangling, Pandas
+- **Alat & Kejuruteraan Data:** Database Management (MySQL/PostgreSQL)
 - **Kawalan Versi:** Git & GitHub
-
-## 📫 Hubungi Saya
-
-- **LinkedIn:** [Ain Safiyyah](https://linkedin.com/in/nama-profil-anda)
-- **E-mel:** ainsafiyyah@example.com
 
 ---
 
